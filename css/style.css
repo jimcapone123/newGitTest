@@ -1,0 +1,19 @@
+@charset "utf-8";
+#header h1{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: left;
+    text-shadow: 2px 2px 2px #000000;
+    color: #FF9966;
+    background-image: url(url);
+    text-indent: 20px;
+    text-decoration: overline;
+}
+.body {
+    background-color: #000000;
+    background-image: url(../images/JIMBO_Mono-DiffuseGlow.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    max-height: 500px;
+    /* [disabled]min-width: 750px; */
+    width: 750px;
+}
